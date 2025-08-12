@@ -6,7 +6,7 @@
 
 [https://github.com/vietphan1995/warm-signal.git](https://github.com/vietphan1995/warm-signal.git)
 
-Warm signal is an software system that connects your missing family people by collecting missing people problems, personal information then analyzes/suggests with memory, culture, history events like war, natural disease, sick disease, migration, accident of individual or community where people living.
+Warm signal is an software system that connects your missing family people by collecting missing people problems, personal information then analyzes/suggests with memory, culture, history events like war, natural disease, human disease, migration, accident of individual or community where people living.
 
 ![image.png](image.png)
 
