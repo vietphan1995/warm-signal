@@ -17,4 +17,4 @@ Warm signal is an software system that connects your missing family people by co
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/warm-signal-1b25e832d6ee8041bcb5ee288704de7f
+https://maianhcorporation.notion.site/warm-signal-1b25e832d6ee8041bcb5ee288704de7f
